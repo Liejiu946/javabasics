@@ -23,4 +23,10 @@ public class grammar_01 {
 
         /*基本数据类型的分装类*/
         Byte aByte2 = 0;
+        Short aShort2 =0;
+        Integer integer =0;
+        Long aLong2 =0L;
+        Float aFloat2 =0f;
+        Double aDouble2 =0.1;
+        
 }
